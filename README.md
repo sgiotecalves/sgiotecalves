@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔮 About Me:
 Estou trabalhando na Bosch<br>Amo a cor roxa 💜<br>Estou disposta a aprender<br>Sou iniciante na programação <br>
 
 
