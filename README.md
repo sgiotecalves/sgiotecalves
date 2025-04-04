@@ -2,16 +2,16 @@
 Estou trabalhando na Bosch<br>Amo a cor roxa 💜<br>Estou disposta a aprender<br>Sou iniciante na programação <br>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-9B4F96?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/python-800080?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%238B2D90.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%239B2B8F.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%239B2B8F.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%239B2B8F.svg?style=for-the-badge&logo=php&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-9B2B8F?style=for-the-badge&logo=django&logoColor=white&color=9B2B8F&labelColor=gray)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-9B2B8F.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%9999CC.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%9999CC.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PHP](https://img.shields.io/badge/php-%9999CC.svg?style=for-the-badge&logo=php&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-800080?style=for-the-badge&logo=django&logoColor=white&color=800080&labelColor=gray)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%800080.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-800080.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%800080.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sgiotecalves&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
