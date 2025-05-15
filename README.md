@@ -3,7 +3,7 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E48EA&height=100&section=header" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8E48EA&size=30&center=true&vCenter=true&width=1000&lines=✦+Hello,+my+name+is+Pâmella+Mendes+✦;✦+Welcome+to+my+profile!+✦">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8E48EA&size=30&center=true&vCenter=true&width=1000&lines=✦+Hello,+my+name+is+Giovana Alves+✦;✦+Welcome+to+my+profile!+✦">
 
 
 I am a **Front-end** developer passionate about crafting intuitive and engaging user experiences through **UI/UX design**. I specialize in building visually appealing and user-friendly interfaces, ensuring seamless interactions that enhance digital products. 🚀✨ 
